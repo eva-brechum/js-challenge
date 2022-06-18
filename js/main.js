@@ -3,5 +3,28 @@
     console.log(hello)
 
     // declare a variable called `myName` and assign it to a string set as your name.
-    var myName = "Eva";
+    // var myName = "Eva";
+    let myName = "Eva";
     console.log(myName);
+
+    let loss = 50 - 5;
+    console.log(loss);
+
+    // Create a variable called sum
+    // which should be the result of adding together 5 and 10.
+    let sum = 5 + 10;
+    console.log(sum);
+    // Below that, create a variable called difference
+    // which should be the result of subtracting 30 from 60.
+    let difference = 60 - 30;
+    console.log(difference);
+
+    // Below that, create a variable called product
+    // which should be the result of multiplying 6 and 3.
+    let product = 6 * 3;
+    console.log(product);
+
+    // Below that, create a variable called quotient
+    // which should be the result of dividing 100 by 5.
+    let quotient = 100/5;
+    console.log(quotient);
