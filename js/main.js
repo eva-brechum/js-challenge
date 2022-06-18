@@ -4,3 +4,4 @@
 
     // declare a variable called `myName` and assign it to a string set as your name.
     var myName = "Eva";
+    console.log(myName);
