@@ -59,7 +59,22 @@
     console.log(animal + ' ' + sound);
 
     // String Interpolation
-    var randomName = 'Cindi';
-    var food = 'cupcakes';
+    let randomName = 'Cindi';
+    let food = 'cupcakes';
 
     console.log(`My name is ${randomName} and I like ${food}! `);
+
+    // String Methods
+    //toUpperCase
+    myName;
+    console.log(myName.toUpperCase());
+
+    //toLowerCase
+    randomName;
+    console.log(randomName.toLowerCase());
+
+    //charAt
+    newName;
+    console.log(newName.charAt(0));
+
+    console.log(newName.charAt(3).toUpperCase());
