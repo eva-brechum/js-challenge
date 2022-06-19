@@ -75,6 +75,10 @@
 
     //charAt
     newName;
-    console.log(newName.charAt(0));
+    console.log(newName.charAt(0).toLowerCase());
 
     console.log(newName.charAt(3).toUpperCase());
+
+    let newString = 'june';
+    let substring = newString.substring(1,3);
+    console.log(substring);
