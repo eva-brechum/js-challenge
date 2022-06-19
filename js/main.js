@@ -28,3 +28,23 @@
     // which should be the result of dividing 100 by 5.
     let quotient = 100/5;
     console.log(quotient);
+
+    // Mathematical Assignment Operators
+    // +=
+    // -=
+    // *=
+    // /=
+
+
+    // increment decremnet ooperators
+    var myWeight = 180;
+
+    myWeight --;
+    // myWeight = myWeight -= 1;
+
+    myWeight ++;
+    console.log(myWeight);
+
+
+
+
