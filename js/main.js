@@ -46,5 +46,20 @@
     console.log(myWeight);
 
 
+    // String Concatenation
+    var newName = 'Estelle';
+    var greeting = "Hey";
+
+    console.log(greeting + ' ' + newName);
 
 
+    let animal = "dog";
+    let sound = "bark";
+
+    console.log(animal + ' ' + sound);
+
+    // String Interpolation
+    var randomName = 'Cindi';
+    var food = 'cupcakes';
+
+    console.log(`My name is ${randomName} and I like ${food}! `);
